@@ -1,7 +1,7 @@
 
 @font-face {
 	font-family: YanoneKaffeesatz;
-	src: url(../files/YanoneKaffeesatz-Light.ttf);
+	src: url(./files/YanoneKaffeesatz-Light.ttf);
 }
 
 *{
@@ -18,7 +18,6 @@ body{
 	font-family: YanoneKaffeesatz;
 	user-select: none;
 	overflow-x: hidden;
-
 	background-image: url("./img/bg.webp");
 	background-size: cover;
 	background-position: center;
