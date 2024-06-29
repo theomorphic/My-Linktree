@@ -11,17 +11,20 @@
 }
 
 body{
-	background-color: #4E2D26;
-	text-align: center;
-	min-height: 100vh;
-	line-height: 1;
-	font-family: YanoneKaffeesatz;
-	user-select: none;
-	overflow-x: hidden;
+
 	background-image: url("./img/bg.webp");
 	background-size: cover;
 	background-position: center;
+
+	background-color: #4E2D26;
 	color: #fff;
+	font-family: YanoneKaffeesatz;
+
+	text-align: center;
+	min-height: 100vh;
+	line-height: 1;
+	user-select: none;
+	overflow-x: hidden;
 
 }
 
