@@ -1,2 +1,2 @@
-# Behold a nice linktree for your websites
+# Behold a nice linktree for your web pages
 ### https://theomorphic.github.io/My-Linktree
